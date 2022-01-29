@@ -1,16 +1,20 @@
 {
-    
-    "name": "fcc-learn-npm-package-json",
-    "author": "raihan",
-    "dependencies": {
-        "express": "^4.14.0"
-    },
-    "main": "server.js",
-    "scripts": {
-        "start": "node server.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://idontknow/todo.git"
-    }
+	"name": "fcc-learn-npm-package-json",
+	"author": "raihan",
+  "description": "This is my first freecodecamp backend project that i am working with. It has passed all the tasks.",
+  "keywords": ["freecodecamp","node.js","replit","backend"],
+  "license": "Minutes View",
+  "version": "1.22",
+
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
 }
