@@ -4,7 +4,7 @@
   "description": "This is my first freecodecamp backend project that i am working with. It has passed all the tasks.",
   "keywords": ["freecodecamp","node.js","replit","backend"],
   "license": "Minutes View",
-  "version": "1.22",
+  "version": "1.22.0",
 
 	"dependencies": {
 		"express": "^4.14.0"
